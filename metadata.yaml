@@ -1,0 +1,38 @@
+_repo: The-White-Czar-A-Story-of-a-Polar-Bear_63342
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Livingston_Bull
+creator:
+  author:
+    agent_name: Hawkes, Clarence
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '9897'
+    url: http://www.gutenberg.org/2009/agents/9897
+    wikipedia: https://en.wikipedia.org/wiki/Clarence_Hawkes
+description: ''
+gutenberg_issued: '2020-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Eskimos -- Juvenile fiction'
+- !lcsh 'Polar bear -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The White Czar: A Story of a Polar Bear'
+url: http://www.gutenberg.org/ebooks/63342
