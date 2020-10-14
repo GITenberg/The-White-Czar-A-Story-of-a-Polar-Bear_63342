@@ -1,5 +1,5 @@
 _repo: The-White-Czar-A-Story-of-a-Polar-Bear_63342
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bull, Charles Livingston
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '9742'
     url: http://www.gutenberg.org/2009/agents/9742
     wikipedia: https://en.wikipedia.org/wiki/Charles_Livingston_Bull
+covers:
+- cover_type: archival
+  image_path: 63342-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Hawkes, Clarence
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9897
     wikipedia: https://en.wikipedia.org/wiki/Clarence_Hawkes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63342#The-White-Czar-A-Story-of-a-Polar-Bear
 gutenberg_issued: '2020-09-29'
 gutenberg_type: Text
 identifiers:
